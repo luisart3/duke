@@ -59,7 +59,7 @@ export const Hero = () => {
             </div>
             <div className="fixed md:bottom-5 bottom-0 left-1/2 -translate-x-1/2 w-full md:max-w-[700px] p-4">
                 <div className="flex flex-col-reverse gap-1.5 md:flex-row md:justify-between items-center ">
-                    <p className="text-md md:text-xl font-[KoHo] font-bold  text-balance">Bring Your Imagination to Life with Stunning Cartoon Animation</p>
+                    <p className="text-md md:text-xl font-[KoHo] font-bold text-center md:text-start  text-balance">Bring Your Imagination to Life with Stunning Cartoon Animation</p>
                     <button type="button" className="cursor-pointer bg-black/10 rounded-2xl px-8 py-2 text-md md:text-xl font-bold font-[KoHo] whitespace-nowrap hover:scale-105 transition duration-150">Start Your Project</button>
                 </div>
             </div>
